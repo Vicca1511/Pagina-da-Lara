@@ -1,0 +1,82 @@
+body  {
+	text-align: center;
+	font-style: italic;
+	font-size: 30px;
+	display: inline-block;
+	background: #AA7BFF;
+	margin:0%;
+	
+}
+.cabecalho{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	background: linear-gradient(#FFFFFF, #AA7BFF);
+}
+
+.titulo-capa {
+	
+	display: flex;
+	color: #FC0BC0;
+	padding: 30px;
+	
+}
+.logo__spa{
+
+	padding: 20px;
+	width: 20%;
+	border: solid 5px #FC0BC0;
+	border-radius: 30px;
+	box-shadow: 10px 10px 5px #000000
+
+
+}
+
+.introducao{
+
+	text-align: center;
+	font-size: 1em;
+	font-style: italic;
+	font-weight: bolder;
+	padding: 50px;
+	background: #AA7BFF
+}
+.imagem{
+	padding: 50px;
+	border: solid 5px #FC0BC0;
+	box-shadow: 10px 10px 5px #000000;
+	border-radius: 30px;
+}
+
+.metodologia{
+	text-align: center;
+	text-decoration: underline;
+	font-size: 60px;
+}
+.estilo__vantagens{
+
+	background: linear-gradient(#AA7BFF  ,#FFFFFF  )
+}
+.titulo__vantagens{
+
+		
+
+
+}
+.vantagens{
+	display: flex;
+	vertical-align: top;
+	justify-content: center;
+	text-align: left;
+
+}
+
+.lista__vantagens{ 
+
+	justify-content: space-around;
+	text-decoration: underline;
+	font-size: 1em;
+	line-height: 1.5em;
+
+}
